@@ -1,3 +1,3 @@
-Android studio 
+Android studio /
 SQLite DB
 
